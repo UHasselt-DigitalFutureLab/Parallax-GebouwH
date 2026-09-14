@@ -62,7 +62,9 @@ async function bootstrap() {
     );
     if (debugPanelSupported) createDebugPanel(app, sceneEntities);
 
-    createOverlayUI(app, camera, sceneData, elementsData, {} as SceneParams);
+    createOverlayUI(app, camera, sceneData, elementsData, {
+      mode: "normal",
+    } as SceneParams);
     setupSceneEnvironment(app);
   } catch (err) {
     console.error("Failed to load scene:", err);
