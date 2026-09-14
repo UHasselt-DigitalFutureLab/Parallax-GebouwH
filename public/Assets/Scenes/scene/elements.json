@@ -1,17 +1,17 @@
 {
   "logos": [
     {
-      "image": "Assets/Scenes/Parallax GebouwH/logos/digital_futurlab_con.jpg",
+      "image": "Assets/Scenes/scene/logos/digital_futurlab_con.jpg",
       "link": "https://www.uhasselt.be/en/instituten-en/digitalfuturelab",
       "alt": "Digital Future Lab"
     },
     {
-      "image": "Assets/Scenes/Parallax GebouwH/logos/PXL.png",
+      "image": "Assets/Scenes/scene/logos/PXL.png",
       "link": "https://pxl-research.be/",
       "alt": "PXL"
     },
     {
-      "image": "Assets/Scenes/Parallax GebouwH/logos/vlaio.svg",
+      "image": "Assets/Scenes/scene/logos/vlaio.svg",
       "link": "https://www.vlaio.be/nl",
       "alt": "VLAIO"
     }
